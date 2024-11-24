@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Netflix Saklı Kategoriler",
+  "version": "1.2.1",
+  "description": "Netflix'in saklı kategorilerine göz atın ve yeni filmler ve diziler keşfedin.",
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+}
