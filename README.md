@@ -32,7 +32,7 @@ Eklentiyi yükledikten sonra bir sihirli portal açılır. Tek yapmanız gereken
 
 Bu eklentiyi **Google Web Store** üzerinden kolayca indirip kurabilirsiniz. Aşağıdaki bağlantıya tıklayarak eklentiyi yükleyin:
 
-[Google Web Store'dan Eklentiyi İndir](https://chromewebstore.google.com/detail/cjjeekmhhepkfbcmpinjpnnlmdcbdogl/preview?hl=en-GB&authuser=0)
+[Google Web Store'dan Eklentiyi İndir](https://chromewebstore.google.com/detail/mldcopmgkmbhealokfmdgbkhnilopncm/preview?hl=en-GB&authuser=0)
 
 Eklentiyi yükledikten sonra, Netflix'in gizli kategorilerini keşfetmeye başlayabilirsiniz!
 
